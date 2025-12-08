@@ -1,0 +1,14 @@
+En esta tarea hice dos versiones del mismo programa para calcular el promedio semanal del clima.
+La primera versión la realicé usando programación tradicional, donde trabajé con funciones separadas.
+En este enfoque, el código es más directo, ya que solo hice una función para pedir las temperaturas y otra para calcular el promedio.
+Es fácil de entender porque se basa en pasos simples y funciones independientes.
+
+La segunda versión la hice usando programación orientada a objetos.
+Aquí organicé el programa en una clase que tiene atributos y métodos.
+También usé encapsulamiento para guardar las temperaturas dentro de la clase y apliqué herencia con una clase base.
+Este tipo de programación hace que el código esté más ordenado y sea más fácil de ampliar o modificar.
+
+La diferencia principal es que en la programación tradicional se trabaja con funciones sueltas,
+mientras que en la programación orientada a objetos la estructura se organiza a través de clases.
+La programación tradicional sirve para programas pequeños y simples,
+mientras que la POO es mejor para proyectos más grandes porque permite reutilizar mejor el código y mantenerlo más organizado.
