@@ -2,7 +2,7 @@
 # Utiliza diferentes tipos de datos y sigue las convenciones de nomenclatura en Python.
 
 # Se solicita al usuario que ingrese su nombre
-user_name = input("por favor ingrese su nombre y su apellido: ")
+user_name = input("por favor podria ingrese su nombre y su apellido: ")
 
 # Se solicita al usuario que ingrese la temperatura en grados Celsius como un tipo de datos float
 celsius_temperature = float(input("por favor ingrese la temperatura en grados Celsius: "))
